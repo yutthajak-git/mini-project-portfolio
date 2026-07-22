@@ -473,6 +473,11 @@ body {
   font-size: 1.8rem;
 }
 
+.chip .chip-icon {
+  width: 1.8rem;
+  height: 1.8rem;
+}
+
 /**
  * CARD
  */
